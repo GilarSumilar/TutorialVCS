@@ -3,4 +3,4 @@
 1. Buka GitHub
 
 2. Buat Reposirory
-satu.jpeg
+![1](image/satu.jpeg)
