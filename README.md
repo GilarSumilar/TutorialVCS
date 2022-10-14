@@ -12,3 +12,6 @@
    - Buka windows explorer misal
    - Seret file yg akan di jadikan repository
 ![3](Gambar/Screenshot%20(25).png)
+
+5. Klik cd (file kalian lalu enter)
+![4](Gambar/tiga.png)
