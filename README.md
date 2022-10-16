@@ -21,3 +21,12 @@
 
 7. Menghubungkan Git ==> GitHub menggunakan "Git Remote"
 ![6](Gambar/lima.png)
+
+8. Upload file ke repository git
+   - git status (Untuk mengetahui status dari sebuah repository lokal)
+   - git add (nama file yg akan di add di repo kalian)
+   - git commit (Menyimpan perubahan yg telah di lakukan)
+![7](Gambar/enam.png)
+
+9. Upload file Git ==> GitHub mengunakan "git push"
+![8](Gambar/7.png)
