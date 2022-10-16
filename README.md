@@ -9,7 +9,7 @@
 ![2](Gambar/dua.jpeg)
 
 4. Buat Repository lokal :
-   - Buka windows explorer misal
+   - Buka windows explorer
    - Seret file yg akan di jadikan repository
 ![3](Gambar/Screenshot%20(25).png)
 
