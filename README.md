@@ -15,3 +15,9 @@
 
 5. Klik cd (file kalian lalu enter)
 ![4](Gambar/tiga.png)
+
+6. Menginisialisasi folder new folder dengan perintah "git init"
+![5](Gambar/empat.png)
+
+7. Menghubungkan Git ==> GitHub menggunakan "Git Remote"
+![6](Gambar/lima.png)
