@@ -30,3 +30,6 @@
 
 9. Upload file Git ==> GitHub mengunakan "git push"
 ![8](Gambar/7.png)
+
+10. Hasil
+![9](Gambar/delapan.png)
